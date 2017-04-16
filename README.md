@@ -1,4 +1,5 @@
 # CookieNough blocks cookie notices #
 
-This is the cookie blocking list used in my iOS Content Blocker app of the same name. I also converted it to an AdBlock list so you can add it to your own ad blocker. If I missed a site open an Issue and I’ll add it. 
+This is the cookie blocking list used in my iOS Content Blocker app of the same name.
 
+Add `https://raw.githubusercontent.com/cenkdominic/cookienough/master/CookieNough.txt` to your filter subscriptions to block all cookie notices. 
