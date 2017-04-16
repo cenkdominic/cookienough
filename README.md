@@ -1,4 +1,4 @@
-#CookieNough blocks cookie notices
+# CookieNough blocks cookie notices #
 
 Don’t you hate those annoying cookie notices?
 
