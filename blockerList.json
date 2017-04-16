@@ -5251,7 +5251,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".noty_bar"
+      "selector": "#noty_bottomCenter_layout_container"
     }
   },
   {
@@ -9470,10 +9470,129 @@
   },
   {
     "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*walesonline.co.uk"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".mod-cookiepolicy"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*kult.de"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookie-fixed-layer"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^(?:[^:]+:)(?:\/\/(?:[^\/?#]*\\.)?)login\\.gg\\.pl\/cookies-policy\/.*\/cookie-terms.*"
     },
     "action": {
       "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*studis-online.de"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".cc-window"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*mystipendium.de"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#sliding-popup"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*infranken.de"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".cc_banner-wrapper_FB"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*mactechnews.de"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookiechoice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*dosgamesarchive.com"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookie_bg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*dosgamesarchive.com"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookie_popup_containerr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*gls-group.eu"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookiePopup"
+    },
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "*gls-group.eu"
+      ]
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#cookiePopupMinimized"
     }
   }
 ]
