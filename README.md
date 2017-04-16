@@ -1,12 +1,3 @@
 # CookieNough blocks cookie notices #
 
-Don’t you hate those annoying cookie notices?
-
-
-I don’t care if you’re setting cookies, just give me the site I asked for.
-
-
-With CookieNough (like “Cookie Dough” but it sounds like “Cookie No”, get it?) the future of cookie warnings is finally here.
-
-
-Never be notified of cookies being set again! Browse in peace!
+This is the cookie blocking list used in my iOS Content Blocker app of the same name. I also converted it to an AdBlock list so you can add it to your own ad blocker. If I missed a site open an Issue and I’ll add it. 
