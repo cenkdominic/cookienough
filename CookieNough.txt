@@ -1,4 +1,4 @@
-[Adblock Plus 1.1]
+[Adblock Plus 2]
 ! Title: CookieNough - block cookie notices
 ! Last modified: 16 April 2017 18:00 UTC
 ! Expires: 7 days
